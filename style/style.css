@@ -591,7 +591,9 @@ ul.nav-links.line {
     display: none;
 }
 @media(max-width: 568px){
-    
+    .img2 img{
+        width: 100%;
+    }
     header .navbar {
         justify-content: space-between;
         align-items: center;
